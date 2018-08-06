@@ -7,9 +7,9 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Window extends JFrame {
-    private static int WIDTH = 800, HEIGHT = 600;
-    private static int AMOUNT = 800;
-    private static int BORDER = 3;
+    private static int WIDTH = 1400, HEIGHT = 800;
+    private static int AMOUNT = 15000;
+    private static int BORDER = 2;
     private JButton restart, solve;
     private JPanel panel;
 
